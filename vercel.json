@@ -1,7 +1,7 @@
 {
   "headers": [
     {
-      "source": "/delivery-rules.combined.json",
+      "source": "public/delivery-rules.combined.json",
       "headers": [
         {
           "key": "Access-Control-Allow-Origin",
