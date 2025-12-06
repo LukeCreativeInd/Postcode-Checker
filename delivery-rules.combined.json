@@ -8,6 +8,175 @@
   "audiences": {
     "retail": {
       "postcodes": {
+        "3714": {
+      "region": "VIC Mansfield",
+      "zone": "VIC Mansfield",
+      "windows": [
+        {
+          "delivery_day": "Tuesday",
+          "cutoff": {
+            "day": "Sunday",
+            "time": "23:59"
+          }
+        }
+      ]
+    },
+    "3715": {
+      "region": "VIC Mansfield",
+      "zone": "VIC Mansfield",
+      "windows": [
+        {
+          "delivery_day": "Tuesday",
+          "cutoff": {
+            "day": "Sunday",
+            "time": "23:59"
+          }
+        }
+      ]
+    },
+    "3717": {
+      "region": "VIC Mansfield",
+      "zone": "VIC Mansfield",
+      "windows": [
+        {
+          "delivery_day": "Tuesday",
+          "cutoff": {
+            "day": "Sunday",
+            "time": "23:59"
+          }
+        }
+      ]
+    },
+    "3719": {
+      "region": "VIC Mansfield",
+      "zone": "VIC Mansfield",
+      "windows": [
+        {
+          "delivery_day": "Tuesday",
+          "cutoff": {
+            "day": "Sunday",
+            "time": "23:59"
+          }
+        }
+      ]
+    },
+    "3720": {
+      "region": "VIC Mansfield",
+      "zone": "VIC Mansfield",
+      "windows": [
+        {
+          "delivery_day": "Tuesday",
+          "cutoff": {
+            "day": "Sunday",
+            "time": "23:59"
+          }
+        }
+      ]
+    },
+    "3720": {
+      "region": "VIC Mansfield",
+      "zone": "VIC Mansfield",
+      "windows": [
+        {
+          "delivery_day": "Tuesday",
+          "cutoff": {
+            "day": "Sunday",
+            "time": "23:59"
+          }
+        }
+      ]
+    },
+    "3722": {
+      "region": "VIC Mansfield",
+      "zone": "VIC Mansfield",
+      "windows": [
+        {
+          "delivery_day": "Tuesday",
+          "cutoff": {
+            "day": "Sunday",
+            "time": "23:59"
+          }
+        }
+      ]
+    },
+    "3723": {
+      "region": "VIC Mansfield",
+      "zone": "VIC Mansfield",
+      "windows": [
+        {
+          "delivery_day": "Tuesday",
+          "cutoff": {
+            "day": "Sunday",
+            "time": "23:59"
+          }
+        }
+      ]
+    },
+    "3757": {
+      "region": "VIC Mansfield",
+      "zone": "VIC Mansfield",
+      "windows": [
+        {
+          "delivery_day": "Tuesday",
+          "cutoff": {
+            "day": "Sunday",
+            "time": "23:59"
+          }
+        }
+      ]
+    },
+    "3761": {
+      "region": "VIC Mansfield",
+      "zone": "VIC Mansfield",
+      "windows": [
+        {
+          "delivery_day": "Tuesday",
+          "cutoff": {
+            "day": "Sunday",
+            "time": "23:59"
+          }
+        }
+      ]
+    },
+    "3763": {
+      "region": "VIC Mansfield",
+      "zone": "VIC Mansfield",
+      "windows": [
+        {
+          "delivery_day": "Tuesday",
+          "cutoff": {
+            "day": "Sunday",
+            "time": "23:59"
+          }
+        }
+      ]
+    },
+    "3778": {
+      "region": "VIC Mansfield",
+      "zone": "VIC Mansfield",
+      "windows": [
+        {
+          "delivery_day": "Tuesday",
+          "cutoff": {
+            "day": "Sunday",
+            "time": "23:59"
+          }
+        }
+      ]
+    },
+    "3779": {
+      "region": "VIC Mansfield",
+      "zone": "VIC Mansfield",
+      "windows": [
+        {
+          "delivery_day": "Tuesday",
+          "cutoff": {
+            "day": "Sunday",
+            "time": "23:59"
+          }
+        }
+      ]
+    },
         "2600": {
           "region": "NSW Canberra",
           "zone": "NSW Canberra",
